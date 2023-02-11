@@ -5,7 +5,7 @@
 ##### - [ANGEL ZAVALETA](https://github.com/AngelZavaleta)
 ##### - [JOSÉ ACEVEDO](https://github.com/JoseAcevedo6)
 ##### - [LEONARDO CUETO](https://github.com/Leonardo1278)
-##### - [NICOLÁS LIRA](https://github.com/faesko/)
+##### - [NICOLÁS LIRA MORENO](https://github.com/faesko/)
 
 # <h1 align=center>**`OLIST`**</h1>
 
